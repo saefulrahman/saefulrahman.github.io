@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Blog Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://saefulrahman.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saefulrahman.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cover image</title>
+      <link>https://saefulrahman.my.id/tags/cover-image/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saefulrahman.my.id/tags/cover-image/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>disqus</title>
       <link>https://saefulrahman.my.id/tags/disqus/</link>
@@ -67,15 +76,6 @@
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://saefulrahman.my.id/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cover image</title>
-      <link>https://saefulrahman.my.id/tags/cover-image/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://saefulrahman.my.id/tags/cover-image/</guid>
       <description></description>
     </item>
     
