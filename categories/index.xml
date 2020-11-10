@@ -6,25 +6,7 @@
     <description>Recent content in Categories on Blog Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://saefulrahman.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>features</title>
-      <link>https://saefulrahman.my.id/features/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saefulrahman.my.id/features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tranquilpeak</title>
-      <link>https://saefulrahman.my.id/tranquilpeak/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saefulrahman.my.id/tranquilpeak/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://saefulrahman.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>releases</title>
       <link>https://saefulrahman.my.id/releases/</link>
@@ -35,11 +17,29 @@
     </item>
     
     <item>
+      <title>tranquilpeak</title>
+      <link>https://saefulrahman.my.id/tranquilpeak/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saefulrahman.my.id/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>showcase</title>
       <link>https://saefulrahman.my.id/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://saefulrahman.my.id/showcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>https://saefulrahman.my.id/features/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saefulrahman.my.id/features/</guid>
       <description></description>
     </item>
     
