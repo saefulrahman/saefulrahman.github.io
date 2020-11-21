@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /blog/categories
+Disallow: /blog/tags
+Disallow: /blog/archives
+
+Allow: /
+ 
+Sitemap: https://saefulrahman.my.id/sitemap.xml

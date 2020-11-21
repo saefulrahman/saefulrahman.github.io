@@ -13,10 +13,10 @@
 
 <meta property="og:description" content="Hugo tranquilpeak theme demo">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Blogs">
-<meta name="twitter:title" content="Blogs">
-<meta property="og:url" content="https://saefulrahman.my.id/blog/">
-<meta property="twitter:url" content="https://saefulrahman.my.id/blog/">
+<meta property="og:title" content="Blog/Tags">
+<meta name="twitter:title" content="Blog/Tags">
+<meta property="og:url" content="https://saefulrahman.my.id/blog/tags/">
+<meta property="twitter:url" content="https://saefulrahman.my.id/blog/tags/">
 <meta property="og:site_name" content="Blog Saeful Rahman">
 <meta property="og:description" content="Hugo tranquilpeak theme demo">
 <meta name="twitter:description" content="Hugo tranquilpeak theme demo">
@@ -39,16 +39,16 @@
   <meta property="twitter:image" content="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=640">
 
 
-    <title>Blogs</title>
+    <title>Blog/Tags</title>
 
     <link rel="icon" href="https://saefulrahman.my.id/favicon.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://saefulrahman.my.id/blog/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://saefulrahman.my.id/blog/tags/index.xml">
     
 
     
 
-    <link rel="canonical" href="https://saefulrahman.my.id/blog/">
+    <link rel="canonical" href="https://saefulrahman.my.id/blog/tags/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -212,73 +212,47 @@
         class="
                hasCoverMetaIn
                ">
-        <section class="postShorten-group main-content-wrap">
-          
-          
-          
-            
-  
-    
-  
 
+        <div id="tags-archives" class="main-content-wrap">
+          <form id="filter-form" action="#">
+            <input name="tag" type="text" class="form-control input--xlarge" placeholder="Search tag" autofocus="autofocus">
+          </form>
+          <h4 class="archive-result text-color-base text-xlarge"
+              data-message-zero="no tag found"
+              data-message-one="1 tag found"
+              data-message-other="{n} tags found"></h4>
 
-  
-
-<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="https://saefulrahman.my.id/blog/cover-image-showcase-full-oy-ut/">
-          Cover image showcase full oy ut
-        </a>
-      </h1>
-      
-  <div class="postShorten-meta post-meta">
-    
-      <time itemprop="datePublished" datetime="2015-05-13T00:00:00Z">
-        
+            <section>
+              
+                <a class="tag tag--primary tag--small" href="#cover-image-list" data-tag="cover-image">
+                  cover-image
+                </a>
+              
+            </section>
+            <section class="boxes">
+              
+                <div id="cover-image-list" class="archive box" data-tag="cover-image">
+                  <h4 class="archive-title">
+                    <a class="link-unstyled" href="cover-image">
+                      cover-image (1)
+                    </a>
+                  </h4>
+                  <ul class="archive-posts">
+                    
+                      <li class="archive-post">
+                        <a class="archive-post-title" href="https://saefulrahman.my.id/blog/cover-image-showcase-full-oy-ut/">
+                          Cover image showcase full oy ut
+                        </a>
+                        <span class="archive-post-date"> - 
   May 13, 2015
-
-      </time>
-    
-    
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://saefulrahman.my.id/blog/categories/tranquilpeak">tranquilpeak</a>, 
-    
-      <a class="category-link" href="https://saefulrahman.my.id/blog/categories/features">features</a>
-    
-  
-
-  </div>
-
-    </div>
-    <div class="postShorten-excerpt" itemprop="articleBody">
-      
-        <p>Tranquilpeak integrate a unique &ldquo;cover image&rdquo; feature. Open this post to see how this feature sublimate your article.</p>
-      
-      <p>
-        <a href="https://saefulrahman.my.id/blog/cover-image-showcase-full-oy-ut/" class="postShorten-excerpt_link link">Continue reading</a>
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://saefulrahman.my.id/blog/cover-image-showcase-full-oy-ut/">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" itemprop="image" src="//d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg"/>
-      </div>
-    </a>
-  
-</article>
-
-          
-          
-
-        </section>
+</span>
+                      </li>
+                    
+                  </ul>
+                </div>
+              
+           </section>
+         </div>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     &copy; 2020 Saeful Rahman. All Rights Reserved
@@ -287,7 +261,6 @@
 
       </div>
     </div>
-    
     <div id="about">
   <div id="about-card">
     <div id="about-btn-close">
@@ -318,8 +291,6 @@
 </div>
 
     
-
-    
   
     
       <div id="cover" style="background-image:url('https://saefulrahman.my.id/images/cover.jpg');"></div>
@@ -327,7 +298,8 @@
   
 
 
-    
+  </body>
+  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
@@ -369,7 +341,4 @@ $(document).ready(function() {
 
 
 
-    
-  </body>
 </html>
-
