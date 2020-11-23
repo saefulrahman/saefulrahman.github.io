@@ -4,27 +4,87 @@
   
   <url>
     <loc>https://saefulrahman.my.id/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://saefulrahman.my.id/blog/categories/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://saefulrahman.my.id/blog/tags/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://saefulrahman.my.id/blog/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/welcome-to-tranquilpeak-0.4.8-beta/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/who-is-using-tranquilpeak-hugo-theme/</loc>
+    <lastmod>2015-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/elements-showcase/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saefulrahman.my.id/blog/cover-image-showcase-full-oy-ut/</loc>
-    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <loc>https://saefulrahman.my.id/blog/highlighted-code-showcase/</loc>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags-plugins-showcase/</loc>
+    <lastmod>2014-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/hidden-social-section-showcase/</loc>
+    <lastmod>2014-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/hidden-tag-section-showcase/</loc>
+    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/hidden-pagination-showcase/</loc>
+    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/video-integrations-showcase/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/chinese-test/</loc>
+    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/image-gallery-showcase/</loc>
+    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/japanese-test/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -32,7 +92,19 @@
   </url>
   
   <url>
+    <loc>https://saefulrahman.my.id/blog/tags/chinese/</loc>
+  </url>
+  
+  <url>
     <loc>https://saefulrahman.my.id/blog/tags/cover-image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/dailymotion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/disqus/</loc>
   </url>
   
   <url>
@@ -40,7 +112,87 @@
   </url>
   
   <url>
+    <loc>https://saefulrahman.my.id/blog/tags/github-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/google-analytics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/gravatar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/hexo-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/highlight-code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/html-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/image-gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/japanese/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/markdown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/pagination/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/categories/releases/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/categories/showcase/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/social/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/tag-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/test/</loc>
+  </url>
+  
+  <url>
     <loc>https://saefulrahman.my.id/blog/categories/tranquilpeak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/videos-integration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/vimeo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saefulrahman.my.id/blog/tags/youtube/</loc>
   </url>
   
 </urlset>
