@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belajar Web on Saeful Rahman</title>
+    <link>https://saefulrahman.my.id/blog/tag/belajar-web/</link>
+    <description>Recent content in Belajar Web on Saeful Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jun 2021 16:40:27 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/tag/belajar-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Best Web Development Frameworks</title>
+      <link>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</link>
+      <pubDate>Sun, 06 Jun 2021 16:40:27 +0700</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</guid>
+      <description>Daftar Isi     Heading 1 Multiple frameworks have been invented Pull Quote tag to simplify the web development process, increase flexibility and reduce time to market. Without the use of frameworks, modern web development would be a nightmare for software engineers because they would have to create databases, business logic, security options, and many other things from scratch.
+This article talks about the essence of web development frameworks and provides a list of the most popular web frameworks for 2021.</description>
+    </item>
+    
+  </channel>
+</rss>

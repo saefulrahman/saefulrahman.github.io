@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom on Saeful Rahman</title>
+    <link>https://saefulrahman.my.id/blog/category/custom/</link>
+    <description>Recent content in Custom on Saeful Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 12:49:27 +0600</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/category/custom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements showcase</title>
+      <link>https://saefulrahman.my.id/blog/elements-showcase/</link>
+      <pubDate>Sat, 10 Apr 2021 12:49:27 +0600</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/elements-showcase/</guid>
+      <description>Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph Lorem ipsum dolor sit amet, test link consectetur adipiscing elit. Strong text pellentesque ligula commodo viverra vehicula. Italic text at ullamcorper enim. Morbi a euismod nibh. Underline textnon elit nisl. Deleted text tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros.</description>
+    </item>
+    
+    <item>
+      <title>10 Best Web Development Frameworks</title>
+      <link>https://saefulrahman.my.id/blog/10-best-web-development-frameworks-part2/</link>
+      <pubDate>Sun, 10 Jan 2021 12:49:27 +0600</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/10-best-web-development-frameworks-part2/</guid>
+      <description>Multiple frameworks have been invented to simplify the web development process, increase flexibility and reduce time to market. Without the use of frameworks, modern web development would be a nightmare for software engineers because they would have to create databases, business logic, security options, and many other things from scratch.
+This article talks about the essence of web development frameworks and provides a list of the most popular web frameworks for 2021.</description>
+    </item>
+    
+    <item>
+      <title>14 Best CSS Frameworks for Front-End Developers</title>
+      <link>https://saefulrahman.my.id/blog/14-best-css-frameworks-for-front-end-developers-part2/</link>
+      <pubDate>Mon, 19 Oct 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/14-best-css-frameworks-for-front-end-developers-part2/</guid>
+      <description>I once heard a front-end developer joke, “The NASA has landed robots on Mars, and here we’re still struggling to center-align our divs!” And it makes me feel bad that this joke has a lot of truth in it. Doing something that sounds as easy and common-sense-driven as centering a box within a box is incredibly difficult to work out in CSS. Unless you’ve encountered it before. And saved the code snippet somewhere.</description>
+    </item>
+    
+  </channel>
+</rss>
