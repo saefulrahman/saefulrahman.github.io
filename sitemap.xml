@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saefulrahman.my.id/blog/tag/golang/</loc>
-    <lastmod>2021-06-14T12:58:12+07:00</lastmod>
-  </url><url>
-    <loc>https://saefulrahman.my.id/blog/category/hugomu/</loc>
-    <lastmod>2021-06-14T12:58:12+07:00</lastmod>
-  </url><url>
-    <loc>https://saefulrahman.my.id/blog/membuat-blog-pribadi-dengan-hugo-dan-github-pages/</loc>
-    <lastmod>2021-06-14T12:58:12+07:00</lastmod>
-  </url><url>
-    <loc>https://saefulrahman.my.id/</loc>
-    <lastmod>2021-06-14T12:58:12+07:00</lastmod>
-  </url><url>
-    <loc>https://saefulrahman.my.id/blog/author/saefulrahman/</loc>
-    <lastmod>2021-06-14T12:58:12+07:00</lastmod>
-  </url><url>
     <loc>https://saefulrahman.my.id/blog/tag/belajar-css/</loc>
     <lastmod>2021-06-12T02:26:28+07:00</lastmod>
   </url><url>
@@ -28,6 +13,12 @@
   </url><url>
     <loc>https://saefulrahman.my.id/blog/category/hugo/</loc>
     <lastmod>2021-06-12T02:26:28+07:00</lastmod>
+  </url><url>
+    <loc>https://saefulrahman.my.id/</loc>
+    <lastmod>2021-06-12T02:26:28+07:00</lastmod>
+  </url><url>
+    <loc>https://saefulrahman.my.id/blog/author/saefulrahman/</loc>
+    <lastmod>2021-06-11T20:37:35+07:00</lastmod>
   </url><url>
     <loc>https://saefulrahman.my.id/blog/tags-plugins-showcase/</loc>
     <lastmod>2021-06-09T17:39:30+07:00</lastmod>
@@ -42,6 +33,12 @@
     <lastmod>2021-06-11T20:37:35+07:00</lastmod>
   </url><url>
     <loc>https://saefulrahman.my.id/blog/category/belajar-blog/</loc>
+    <lastmod>2021-06-11T20:37:35+07:00</lastmod>
+  </url><url>
+    <loc>https://saefulrahman.my.id/blog/tag/golang/</loc>
+    <lastmod>2021-06-11T20:37:35+07:00</lastmod>
+  </url><url>
+    <loc>https://saefulrahman.my.id/blog/category/hugomu/</loc>
     <lastmod>2021-06-11T20:37:35+07:00</lastmod>
   </url><url>
     <loc>https://saefulrahman.my.id/blog/author/kangmousir/</loc>
