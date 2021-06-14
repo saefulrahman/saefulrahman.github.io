@@ -6,15 +6,15 @@
     <description>Recent content in Golang on Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 16:40:27 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/tag/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 16:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/tag/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>10 Best Web Development Frameworks</title>
-      <link>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</link>
-      <pubDate>Sun, 06 Jun 2021 16:40:27 +0700</pubDate>
+      <title>Membuat Blog Pribadi Menggunakan Hugo</title>
+      <link>https://saefulrahman.my.id/blog/membuat-blog-pribadi-dengan-hugo/</link>
+      <pubDate>Mon, 14 Jun 2021 16:20:00 +0700</pubDate>
       
-      <guid>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</guid>
-      <description>Daftar Isi     Heading 1 Multiple frameworks have been invented Pull Quote tag to simplify the web development process, increase flexibility and reduce time to market. Without the use of frameworks, modern web development would be a nightmare for software engineers because they would have to create databases, business logic, security options, and many other things from scratch.
-This article talks about the essence of web development frameworks and provides a list of the most popular web frameworks for 2021.</description>
+      <guid>https://saefulrahman.my.id/blog/membuat-blog-pribadi-dengan-hugo/</guid>
+      <description>Memilki sebuah blog pribadi merupakan salah satu langkah untuk memperkenalkan diri kepada orang lain. Hadirnya blog pribadi akan membuatmu lebih mudah untuk &amp;lsquo;menjual&amp;rsquo; diri Kamu. Sehingga orang-orang akan cepat mengetahuimu lewat karya hingga tulisan yang diterbitkan di blog pribadi milikmu. Tentu saja blog pribadi yang Kamu bangun haruslah memuat informasi mengenai identitas pribadi, kontak, portofolio yang sudah Kamu kerjakan, dan tulisan-tulisan yang Kamu terbitkan.
+Nah, apalagi sebagai programmer memiliki blog adalah sebuah kewajiban.</description>
     </item>
     
   </channel>

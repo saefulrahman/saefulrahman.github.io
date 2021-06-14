@@ -6,33 +6,15 @@
     <description>Recent content in Hugomu on Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 16:40:27 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/category/hugomu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 16:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/category/hugomu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>10 Best Web Development Frameworks</title>
-      <link>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</link>
-      <pubDate>Sun, 06 Jun 2021 16:40:27 +0700</pubDate>
+      <title>Membuat Blog Pribadi Menggunakan Hugo</title>
+      <link>https://saefulrahman.my.id/blog/membuat-blog-pribadi-dengan-hugo/</link>
+      <pubDate>Mon, 14 Jun 2021 16:20:00 +0700</pubDate>
       
-      <guid>https://saefulrahman.my.id/blog/10-best-web-development-frameworks/</guid>
-      <description>Daftar Isi     Heading 1 Multiple frameworks have been invented Pull Quote tag to simplify the web development process, increase flexibility and reduce time to market. Without the use of frameworks, modern web development would be a nightmare for software engineers because they would have to create databases, business logic, security options, and many other things from scratch.
-This article talks about the essence of web development frameworks and provides a list of the most popular web frameworks for 2021.</description>
-    </item>
-    
-    <item>
-      <title>14 Best Free Bootstrap Templates (Most Popular 2021)</title>
-      <link>https://saefulrahman.my.id/blog/free-template-bootstrap/</link>
-      <pubDate>Tue, 13 Apr 2021 12:49:27 +0600</pubDate>
-      
-      <guid>https://saefulrahman.my.id/blog/free-template-bootstrap/</guid>
-      <description>If you looking for the Best Free Bootstrap templates we put together a list of the best free bootstrap themes and templates available. All templates or themes are 100% free to download and use it as you wish, design your new business website, commercial website, portfolio site or even a eCommerce website with bootstrap templates. You can download the Bootstrap starter and build any website project or app you like. Checkout the best free Material Kit UI Bootstrap themes and templates for 2021.</description>
-    </item>
-    
-    <item>
-      <title>17&#43; Best Free Portfolio Templates for Creatives (Most Popular 2021)</title>
-      <link>https://saefulrahman.my.id/blog/free-template-portfolio/</link>
-      <pubDate>Sat, 13 Feb 2021 12:49:27 +0600</pubDate>
-      
-      <guid>https://saefulrahman.my.id/blog/free-template-portfolio/</guid>
-      <description>Are you looking for the best free portfolio template to start your online creative website, we put together a great list of the best free portfolio templates for any creative designer, illustrator, graphic designer, web designer, to create new or update your existing portfolio if you looking to impress your potential clients or get a new creative job in your professional field of design. List of the best free WordPress portfolio themes Once you pick one of the portfolio templates that best fits your style and brand, you can follow simple tutorial for beginners how to create a portfolio site in 7 easy steps.</description>
+      <guid>https://saefulrahman.my.id/blog/membuat-blog-pribadi-dengan-hugo/</guid>
+      <description>Memilki sebuah blog pribadi merupakan salah satu langkah untuk memperkenalkan diri kepada orang lain. Hadirnya blog pribadi akan membuatmu lebih mudah untuk &amp;lsquo;menjual&amp;rsquo; diri Kamu. Sehingga orang-orang akan cepat mengetahuimu lewat karya hingga tulisan yang diterbitkan di blog pribadi milikmu. Tentu saja blog pribadi yang Kamu bangun haruslah memuat informasi mengenai identitas pribadi, kontak, portofolio yang sudah Kamu kerjakan, dan tulisan-tulisan yang Kamu terbitkan.
+Nah, apalagi sebagai programmer memiliki blog adalah sebuah kewajiban.</description>
     </item>
     
   </channel>
