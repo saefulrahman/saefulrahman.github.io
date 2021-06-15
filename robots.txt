@@ -4,6 +4,8 @@ Disallow: /blog/category
 Disallow: /blog/tag
 Disallow: /blog/author
 Allow: /
+
 User-agent: *
 Allow: /
+
 Sitemap: https://saefulrahman.my.id/sitemap.xml
