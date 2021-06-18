@@ -1,8 +1,8 @@
 User-agent: Mediapartners-Google
 Disallow: /blog/page/
-Disallow: /blog/category
-Disallow: /blog/tag
-Disallow: /blog/author
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /blog/author/
 
 Noindex: /blog/page/
 Noindex: /blog/category/
