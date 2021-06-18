@@ -6,7 +6,17 @@
     <description>Recent content in saefulrahman on Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 16:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/author/saefulrahman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 13:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/author/saefulrahman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Hosting atau Deploy Hugo di Github Pages</title>
+      <link>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</link>
+      <pubDate>Thu, 17 Jun 2021 13:20:00 +0700</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</guid>
+      <description>Github adalah salah satu layanan khusus developer yang dibuat karena terinpisrasi dari cara bekerja pada pogrammer. Singkatnya Github adalah sebuah manajemen project, sistem versioning code, sekaligus layanan jaringan sosial bagi para developer di seluruh dunia. Sehingga lewat layanan Github, akan memudahkan developer dalam mengembangkan sebuah karya baik private atau open-source.
+Selain sebagai layanan manajemen project, Github juga menyediakan layanan hosting Static Page yang bisa Kamu manfaatkan untuk hosting blog Hugo milikmu.</description>
+    </item>
+    
     <item>
       <title>Membuat Blog Pribadi Menggunakan Hugo</title>
       <link>https://saefulrahman.my.id/blog/membuat-blog-pribadi-menggunakan-hugo/</link>
