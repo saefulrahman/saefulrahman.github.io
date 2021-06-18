@@ -6,7 +6,17 @@
     <description>Recent content in saefulrahman on Saeful Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 13:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/author/saefulrahman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 07:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/author/saefulrahman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan SSH di Github</title>
+      <link>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</link>
+      <pubDate>Fri, 18 Jun 2021 07:20:00 +0700</pubDate>
+      
+      <guid>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</guid>
+      <description>Dengan menggunakan protokol SSH, Kamu bisa terhubung dan remote ke server secara jarak jauh. Lewat kunci SSH Kamu bisa terhubung dan akses ke server tanpa perlu autentikasi setiap kali akses dengan memasukkan username dan password.
+Maka penggunaan SSH pada repositori Github akan sangat membantu dan memudahkanmu. Oleh karena itu, proses remote repositori milikmu di Github tidak perlu melakukan autentikasi setiap kali akan mengaksesnya. Berbeda dengan metode HTTPS, setiap akan melakukan aksi harus memasukkan username dan password untuk validasi.</description>
+    </item>
+    
     <item>
       <title>Cara Hosting atau Deploy Hugo di Github Pages</title>
       <link>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</link>
