@@ -5,7 +5,7 @@ Disallow: /blog/tag
 Disallow: /blog/author
 
 Noindex: /blog/page/
-Noindex: /blog/category
+Noindex: /blog/category/
 Noindex: /blog/tag/
 Noindex: /blog/author/
 
