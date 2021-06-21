@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Git on Saeful Rahman</title>
-    <link>https://saefulrahman.my.id/blog/tag/git/</link>
-    <description>Recent content in Git on Saeful Rahman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jun 2021 07:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/tag/git/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cara Menggunakan SSH di Github</title>
-      <link>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</link>
-      <pubDate>Fri, 18 Jun 2021 07:20:00 +0700</pubDate>
-      
-      <guid>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</guid>
-      <description>Dengan menggunakan protokol SSH, Kamu bisa terhubung dan remote ke server secara jarak jauh. Lewat kunci SSH Kamu bisa terhubung dan akses ke server tanpa perlu autentikasi setiap kali akses dengan memasukkan username dan password.
-Maka penggunaan SSH pada repositori Github akan sangat membantu dan memudahkanmu. Oleh karena itu, proses remote repositori milikmu di Github tidak perlu melakukan autentikasi setiap kali akan mengaksesnya. Berbeda dengan metode HTTPS, setiap akan melakukan aksi harus memasukkan username dan password untuk validasi.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on Saeful Rahman</title><link>https://saefulrahman.my.id/blog/tag/git/</link><description>Recent content in Git on Saeful Rahman</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 07:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/tag/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Cara Menggunakan SSH di Github</title><link>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</link><pubDate>Fri, 18 Jun 2021 07:20:00 +0700</pubDate><guid>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</guid><description>Dengan menggunakan protokol SSH, Kamu bisa terhubung dan remote ke server secara jarak jauh. Lewat kunci SSH Kamu bisa terhubung dan akses ke server tanpa perlu autentikasi setiap kali akses dengan memasukkan username dan password.
+Maka penggunaan SSH pada repositori Github akan sangat membantu dan memudahkanmu. Oleh karena itu, proses remote repositori milikmu di Github tidak perlu melakukan autentikasi setiap kali akan mengaksesnya. Berbeda dengan metode HTTPS, setiap akan melakukan aksi harus memasukkan username dan password untuk validasi.</description></item></channel></rss>

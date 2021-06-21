@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Github on Saeful Rahman</title>
-    <link>https://saefulrahman.my.id/blog/category/github/</link>
-    <description>Recent content in Github on Saeful Rahman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jun 2021 07:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/category/github/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cara Menggunakan SSH di Github</title>
-      <link>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</link>
-      <pubDate>Fri, 18 Jun 2021 07:20:00 +0700</pubDate>
-      
-      <guid>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</guid>
-      <description>Dengan menggunakan protokol SSH, Kamu bisa terhubung dan remote ke server secara jarak jauh. Lewat kunci SSH Kamu bisa terhubung dan akses ke server tanpa perlu autentikasi setiap kali akses dengan memasukkan username dan password.
-Maka penggunaan SSH pada repositori Github akan sangat membantu dan memudahkanmu. Oleh karena itu, proses remote repositori milikmu di Github tidak perlu melakukan autentikasi setiap kali akan mengaksesnya. Berbeda dengan metode HTTPS, setiap akan melakukan aksi harus memasukkan username dan password untuk validasi.</description>
-    </item>
-    
-    <item>
-      <title>Cara Hosting atau Deploy Hugo di Github Pages</title>
-      <link>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</link>
-      <pubDate>Thu, 17 Jun 2021 13:20:00 +0700</pubDate>
-      
-      <guid>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</guid>
-      <description>Github adalah salah satu layanan khusus developer yang dibuat karena terinpisrasi dari cara bekerja pada pogrammer. Singkatnya Github adalah sebuah manajemen project, sistem versioning code, sekaligus layanan jaringan sosial bagi para developer di seluruh dunia. Sehingga lewat layanan Github, akan memudahkan developer dalam mengembangkan sebuah karya baik private atau open-source.
-Selain sebagai layanan manajemen project, Github juga menyediakan layanan hosting Static Page yang bisa Kamu manfaatkan untuk hosting blog Hugo milikmu.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on Saeful Rahman</title><link>https://saefulrahman.my.id/blog/category/github/</link><description>Recent content in Github on Saeful Rahman</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 07:20:00 +0700</lastBuildDate><atom:link href="https://saefulrahman.my.id/blog/category/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Cara Menggunakan SSH di Github</title><link>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</link><pubDate>Fri, 18 Jun 2021 07:20:00 +0700</pubDate><guid>https://saefulrahman.my.id/blog/cara-menggunakan-ssh-di-github/</guid><description>Dengan menggunakan protokol SSH, Kamu bisa terhubung dan remote ke server secara jarak jauh. Lewat kunci SSH Kamu bisa terhubung dan akses ke server tanpa perlu autentikasi setiap kali akses dengan memasukkan username dan password.
+Maka penggunaan SSH pada repositori Github akan sangat membantu dan memudahkanmu. Oleh karena itu, proses remote repositori milikmu di Github tidak perlu melakukan autentikasi setiap kali akan mengaksesnya. Berbeda dengan metode HTTPS, setiap akan melakukan aksi harus memasukkan username dan password untuk validasi.</description></item><item><title>Cara Hosting atau Deploy Hugo di Github Pages</title><link>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</link><pubDate>Thu, 17 Jun 2021 13:20:00 +0700</pubDate><guid>https://saefulrahman.my.id/blog/cara-hosting-atau-deploy-hugo-di-github-pages/</guid><description>Github adalah salah satu layanan khusus developer yang dibuat karena terinpisrasi dari cara bekerja pada pogrammer. Singkatnya Github adalah sebuah manajemen project, sistem versioning code, sekaligus layanan jaringan sosial bagi para developer di seluruh dunia. Sehingga lewat layanan Github, akan memudahkan developer dalam mengembangkan sebuah karya baik private atau open-source.
+Selain sebagai layanan manajemen project, Github juga menyediakan layanan hosting Static Page yang bisa Kamu manfaatkan untuk hosting blog Hugo milikmu.</description></item></channel></rss>
