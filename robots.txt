@@ -5,14 +5,7 @@ Disallow: /blog/tag/
 Disallow: /blog/author/
 Disallow: /search/
 
-Noindex: /blog/page/
-Noindex: /blog/category/
-Noindex: /blog/tag/
-Noindex: /blog/author/
-Noindex: /search/
-
 Allow: /
-Allow: /blog/
 
 User-agent: *
 Disallow: /blog/page/
@@ -21,13 +14,6 @@ Disallow: /blog/tag/
 Disallow: /blog/author/
 Disallow: /search/
 
-Noindex: /blog/page/
-Noindex: /blog/category/
-Noindex: /blog/tag/
-Noindex: /blog/author/
-Noindex: /search/
-
 Allow: /
-Allow: /blog/
 
 Sitemap: https://saefulrahman.my.id/sitemap.xml
