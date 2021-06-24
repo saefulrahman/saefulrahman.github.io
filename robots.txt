@@ -1,0 +1,19 @@
+User-agent: Mediapartners-Google
+Disallow: /blog/page/
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /blog/author/
+Disallow: /search/
+
+Allow: /
+
+User-agent: *
+Disallow: /blog/page/
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /blog/author/
+Disallow: /search/
+
+Allow: /
+
+Sitemap: https://saefulrahman.my.id/sitemap.xml
